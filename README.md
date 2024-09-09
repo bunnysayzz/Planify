@@ -22,9 +22,6 @@ The scope of this project includes:
 ![Dashboard](dashboard.jpg)
 
 ## Video
-
-https://github.com/bunnysayzz/Planify/blob/main/video.mp4
-
 Here's a brief video demonstrating the functionalities of the project:
 
 <video width="600" controls>
