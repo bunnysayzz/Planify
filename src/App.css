@@ -1,0 +1,16 @@
+.status-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.status-column {
+  overflow-y: auto; 
+  min-height: 300px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  height: 300px; /* Fixed height */
+  overflow-y: auto; /* Allows scrolling within the container */
+}
