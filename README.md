@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+# Board Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Overview
 
-## Available Scripts
+The Board project is a task management application designed to help teams track their work progress across different stages: TODO, IN PROGRESS, and COMPLETED. It leverages React for the frontend, Firebase Firestore for real-time database functionalities, and Material-UI for the design components.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **Task Management**: Users can create, edit, and delete tasks.
+- **Real-time Updates**: Changes are updated in real-time using Firebase Firestore.
+- **Drag and Drop**: Tasks can be moved between different statuses using drag and drop.
+- **Responsive Design**: The application is fully responsive and works on both desktop and mobile devices.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Project Scope
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The scope of this project includes:
+- Developing a user-friendly interface for managing tasks.
+- Implementing real-time data handling with Firebase.
+- Providing drag-and-drop functionality for task status updates.
 
-### `npm test`
+## Screenshots
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Dashboard](dashboard.jpg)
 
-### `npm run build`
+## Video
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Here's a brief video demonstrating the functionalities of the project:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[Project Video](video.mp4)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Code Structure
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Frontend**: The frontend is built using React. Key components include:
+  - `TaskCard` for displaying individual tasks.
+  - `TaskModal` for handling task creation and editing.
+  - `Dashboard` as the main page that organizes tasks into columns based on their status.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Backend**: Firebase Firestore is used as the backend to store and manage tasks in real-time.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Installation and Setup
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+To run this project locally:
+1. Clone the repository.
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm start
+   ```
 
-## Learn More
+## Dependencies
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- React
+- Firebase
+- Material-UI
+- React DnD (Drag and Drop)
+- Date handling with `date-fns`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+For a detailed list of dependencies, refer to `package.json`.
 
-### Code Splitting
+Thanku For Visiting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Contact
 
-### Analyzing the Bundle Size
+# For any queries or suggestions, feel free to reach out to me on 
+[LinkedIn](https://www.linkedin.com/in/azharuddindev)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# visit my 
+[portfolio](https://imazhar.vercel.app)
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
