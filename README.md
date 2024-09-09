@@ -25,20 +25,8 @@ The scope of this project includes:
 Here's a brief video demonstrating the functionalities of the project:
 
 <video width="600" controls>
-  <source src="https://raw.githubusercontent.com/bunnysayzz/Planify/main/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-## Video Preview
-
-## Video Preview
-
-<video src="https://raw.githubusercontent.com/bunnysayzz/Planify/main/video.mp4" width="352" height="720" controls>
-  Your browser does not support the video tag.
-</video>
-
-<video width="640" height="480" controls>
-  <source src="https://res.cloudinary.com/dxecoctrm/video/upload/v1725894131/video_jc3zzl.mp4" type="video/mp4">
+  <source src="https://github.com/bunnysayzz/Planify/blob/main/video.mp4
+  " type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
