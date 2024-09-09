@@ -1,7 +1,5 @@
 # Planify TodoList
 
-## Project Overview
-
 The Planify project is a task management application designed to help teams track their work progress across different stages: TODO, IN PROGRESS, and COMPLETED. It leverages React for the frontend, Firebase Firestore for real-time database functionalities, and Material-UI for the design components.
 
 ## Features
