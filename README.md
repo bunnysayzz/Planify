@@ -29,6 +29,13 @@ Here's a brief video demonstrating the functionalities of the project:
   Your browser does not support the video tag.
 </video>
 
+## Video Preview
+
+<video width="640" height="480" controls>
+  <source src="https://res.cloudinary.com/dxecoctrm/video/upload/v1725894131/video_jc3zzl.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ## Code Structure
 
