@@ -31,6 +31,12 @@ Here's a brief video demonstrating the functionalities of the project:
 
 ## Video Preview
 
+## Video Preview
+
+<video src="https://raw.githubusercontent.com/bunnysayzz/Planify/main/video.mp4" width="352" height="720" controls>
+  Your browser does not support the video tag.
+</video>
+
 <video width="640" height="480" controls>
   <source src="https://res.cloudinary.com/dxecoctrm/video/upload/v1725894131/video_jc3zzl.mp4" type="video/mp4">
   Your browser does not support the video tag.
