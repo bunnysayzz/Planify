@@ -24,7 +24,9 @@ The scope of this project includes:
 
 Here's a brief video demonstrating the functionalities of the project:
 
-[Project Video](video.mp4)
+<video src="video.mp4" controls>
+  Your browser does not support the video tag.
+</video>
 
 
 ## Code Structure
