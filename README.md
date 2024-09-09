@@ -24,7 +24,8 @@ The scope of this project includes:
 
 Here's a brief video demonstrating the functionalities of the project:
 
-<video src="video.mp4" controls>
+<video width="600" controls>
+  <source src="https://res.cloudinary.com/dxecoctrm/video/upload/v1725894131/video_jc3zzl.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
