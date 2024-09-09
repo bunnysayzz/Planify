@@ -24,11 +24,8 @@ The scope of this project includes:
 ## Video
 Here's a brief video demonstrating the functionalities of the project:
 
-<video width="600" controls>
-  <source src="https://github.com/bunnysayzz/Planify/blob/main/video.mp4
-  " type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/15902f83-68b5-4bd8-9fc9-cdfef39be2dc
+
 
 
 ## Code Structure
